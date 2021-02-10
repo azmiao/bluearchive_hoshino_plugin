@@ -11,6 +11,7 @@
 # bluearchive_hoshino_plugin
 一个适用hoshinobot的碧蓝档案Blue Archive插件
 功能如下：
+
 -非指令类：
 
   竞技场结算提醒blue-arena-reminder
