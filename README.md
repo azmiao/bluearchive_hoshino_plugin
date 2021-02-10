@@ -11,8 +11,11 @@
 # bluearchive_hoshino_plugin
 一个适用hoshinobot的碧蓝档案Blue Archive插件
 功能如下：
+-非指令类：
 
-碧蓝档案相关：
+  竞技场结算提醒blue-arena-reminder
+
+-指令类相关：
 
   [@bot档案十连] 十连转蛋
 
@@ -45,3 +48,10 @@ git clone https://github.com/azmiao/bluearchive_hoshino_plugin
 
 ## step 4
 重启hoshinobot即可使用
+
+## 额外
+在群内发送
+```
+开启 blue-arena-reminder
+```
+即可开启碧蓝档案竞技场提醒
