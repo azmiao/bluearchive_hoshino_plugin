@@ -56,3 +56,7 @@ git clone https://github.com/azmiao/bluearchive_hoshino_plugin
 开启 blue-arena-reminder
 ```
 即可开启碧蓝档案竞技场提醒
+
+
+
+//顺便说一句，今天更新完自己刷的初始号莫名其妙被封了，我直接绝不出来了
