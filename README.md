@@ -6,6 +6,8 @@
 
 # 更新日志
 
+21-02-24    release 里更新了一个万一报错的解决方案（原因是大家Hoshino版本不一样）
+
 21-02-08    v1.0    先用着吧
 
 # bluearchive_hoshino_plugin
